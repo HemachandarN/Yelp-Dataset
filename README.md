@@ -1,2 +1,9 @@
 # Yelp-Dataset
-This dataset is a subset of Yelp's businesses, reviews, and user data. It was originally put together for the Yelp Dataset Challenge which is a chance for students to conduct research or analysis on Yelp's data and share their discoveries. In the dataset you'll find information about businesses across 11 metropolitan areas in four countries.
+
+DataSet Link: https://www.yelp.com/dataset
+
+Kaggle Link: https://www.kaggle.com/yelp-dataset/yelp-dataset
+
+![image](https://user-images.githubusercontent.com/58573112/78465145-e7eb2580-76bf-11ea-8e3d-9eaa40c3903f.png)
+
+**This repo contains the code and the insights which I gained fromthe Yelp Dataset Analysis in SAS. I have presented the insights in the form of a report.**  
